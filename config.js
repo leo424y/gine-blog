@@ -45,7 +45,7 @@ module.exports = {
     // 下面的是可选组件
     // 评论
     comment: {
-        open: true, //默认关闭，仅适配disqus
+        open: false, //默认关闭，仅适配disqus
         sourceType: 'disqus',
         disqus: {
             disqusShortname: 'flys-blog' // 你的短域名
