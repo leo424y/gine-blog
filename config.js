@@ -135,7 +135,7 @@ module.exports = {
         }
     },
     rss: {
-        open: false, //默认关闭
+        open: true, //默认关闭
         // 配置参见 gatsby-plugin-feed 插件文档
         conf: {
             query: `
@@ -180,7 +180,7 @@ module.exports = {
                     }
                   `,
                     output: "/feed",
-                    title: "GiNE RSS Feed",
+                    title: "Fly's RSS Feed",
                 },
             ],
         },
