@@ -45,10 +45,10 @@ module.exports = {
     // 下面的是可选组件
     // 评论
     comment: {
-        open: false, //默认关闭，仅适配disqus
+        open: true, //默认关闭，仅适配disqus
         sourceType: 'disqus',
         disqus: {
-            disqusShortname: 'maynes-blog' // 你的短域名
+            disqusShortname: 'flys-blog' // 你的短域名
         }
     },
 
@@ -121,12 +121,12 @@ module.exports = {
     },
     // PWA 优化 
     pwa: {
-        open: false, //默认关闭
+        open: true, //默认关闭
 
         // 配置参见 gatsby-plugin-manifest 插件文档
         conf: {
-            name: `Mayne's Blog`,
-            short_name: `Mayne's Blog`,
+            name: `Fly's Blog`,
+            short_name: `Fly's Blog`,
             start_url: `/`,
             background_color: `#ffffff`,
             theme_color: `#ffffff`,
@@ -135,7 +135,7 @@ module.exports = {
         }
     },
     rss: {
-        open: false, //默认关闭
+        open: true, //默认关闭
         // 配置参见 gatsby-plugin-feed 插件文档
         conf: {
             query: `
