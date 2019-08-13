@@ -8,12 +8,12 @@ module.exports = {
         title: `Fly's Blog`, //网站标题
         pageSize: 3, // 每页多少篇文章
         description: `All things about Johnson Fly`, // 网站描述 seo
-        siteUrl: `https://blog.flyis.me`, // 站点URL
+        siteUrl: `http://blog.flyis.me`, // 站点URL
         aboutPostSlug: `10a70927d25a43d19acf14e0d36354e7`, //没有单独的about页面，about页面指向文章。
         avatar: '41546411364_.pic.jpg', // src/static 目录下
         // 社交帐号配置，显示在页面最下方。
         me: {
-            github: 'mayneyao' // github 用户名称
+            github: 'leo424y' // github 用户名称
         }
     },
 
@@ -24,10 +24,10 @@ module.exports = {
         // 建议开启，可以大大提高build速度
         // 访问 https://github.com/settings/tokens 获取token 
         // export GitHubToken='yourtokenhere'
-        openGithubCache: false, // 开启此配置后，notion页面的数据会缓存到github仓库。需要在环境变量中配置 GitHubToken
+        openGithubCache: true, // 开启此配置后，notion页面的数据会缓存到github仓库。需要在环境变量中配置 GitHubToken
         github: {
-            username: 'mayneyao', // github 用户名
-            repo: 'blog', // 作为blog缓存数据仓库的名称
+            username: 'leo424y', // github 用户名
+            repo: 'fly-blog-cache', // 作为blog缓存数据仓库的名称
             branch: 'master' // 作为blog缓存数据仓库的分支
         },
         search: {
