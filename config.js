@@ -7,7 +7,7 @@ module.exports = {
         name: 'Johnson Fly', // copyright 显示
         title: `Fly's Blog`, //网站标题
         pageSize: 3, // 每页多少篇文章
-        description: `All things about Mayne`, // 网站描述 seo
+        description: `All things about Johnson Fly`, // 网站描述 seo
         siteUrl: `https://blog.flyis.me`, // 站点URL
         aboutPostSlug: `10a70927d25a43d19acf14e0d36354e7`, //没有单独的about页面，about页面指向文章。
         avatar: '41546411364_.pic.jpg', // src/static 目录下
