@@ -4,11 +4,11 @@
 module.exports = {
     // blog mate
     blogMeta: {
-        name: 'Mayne', // copyright 显示
-        title: `Mayne's Blog`, //网站标题
+        name: 'Johnson Fly', // copyright 显示
+        title: `Fly's Blog`, //网站标题
         pageSize: 3, // 每页多少篇文章
         description: `All things about Mayne`, // 网站描述 seo
-        siteUrl: `https://gine.me`, // 站点URL
+        siteUrl: `https://blog.flyis.me`, // 站点URL
         aboutPostSlug: `10a70927d25a43d19acf14e0d36354e7`, //没有单独的about页面，about页面指向文章。
         avatar: '41546411364_.pic.jpg', // src/static 目录下
         // 社交帐号配置，显示在页面最下方。
@@ -20,7 +20,7 @@ module.exports = {
     // 博客数据源 目前只适配notion
     blog: {
         sourceType: 'notion',
-        url: 'https://www.notion.so/99623ef9630940cdb8524ba355831677?v=8366741ca7dd4b339c19484712e13563', // notion中文章表的链接
+        url: 'https://www.notion.so/flyis/dc3243b497de424ab8a8221dbcc50f02?v=266ab4913d9b425ea5a8d0d96b1b9351', // notion中文章表的链接
         // 建议开启，可以大大提高build速度
         // 访问 https://github.com/settings/tokens 获取token 
         // export GitHubToken='yourtokenhere'
@@ -39,7 +39,7 @@ module.exports = {
     // 友链
     friendLink: {
         sourceType: 'notion',
-        url: 'https://www.notion.so/71d6656af07e418a92b3fe966a4ba087?v=1329463e9dfe45899caf28d317b84d50', // notion中友链表的链接
+        url: 'https://www.notion.so/flyis/b7dda8e6176945cf866c7bf3b52ef693?v=b73e9a7c4541473c9264e17d2445a2cd', // notion中友链表的链接
     },
 
     // 下面的是可选组件
