@@ -111,8 +111,8 @@ module.exports = {
     },
     // Google Analytics
     ga: {
-        open: false, // 默认关闭
-        trackingId: 'UA-xxxxxxxx-x', // ga 分配的追踪代码
+        open: true, // 默认关闭
+        trackingId: 'UA-145574428-1', // ga 分配的追踪代码
     },
     // google_ad_client
     google_ad_client: {
