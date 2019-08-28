@@ -58,7 +58,7 @@ function SimpleList(props) {
                         <ListItemIcon>
                             <HomeIcon color={'primary'} />
                         </ListItemIcon>
-                        <ListItemText primary="主页" />
+                        <ListItemText primary="首頁" />
                     </ListItem>
                 </MyLink>
 
@@ -67,7 +67,7 @@ function SimpleList(props) {
                         <ListItemIcon>
                             <TagIcon style={{ color: '#673ab7' }} />
                         </ListItemIcon>
-                        <ListItemText primary="标签" />
+                        <ListItemText primary="標簽" />
                     </ListItem>
                 </MyLink>
 
@@ -76,7 +76,7 @@ function SimpleList(props) {
                         <ListItemIcon>
                             <ArchiveIcon style={{ color: '#f44336' }} />
                         </ListItemIcon>
-                        <ListItemText primary="归档" />
+                        <ListItemText primary="歸檔" />
                     </ListItem>
                 </MyLink>
 
@@ -85,7 +85,7 @@ function SimpleList(props) {
                         <ListItemIcon>
                             <AboutIcon style={{ color: '#ffc107' }} />
                         </ListItemIcon>
-                        <ListItemText primary="关于" />
+                        <ListItemText primary="關於" />
                     </ListItem>
                 </MyLink>
 
@@ -95,7 +95,7 @@ function SimpleList(props) {
                             <ListItemIcon>
                                 <BookListIcon style={{ color: '#607d8b' }} />
                             </ListItemIcon>
-                            <ListItemText primary="书单" />
+                            <ListItemText primary="書單" />
                         </ListItem>
                     </MyLink>
                 }
@@ -106,7 +106,7 @@ function SimpleList(props) {
                             <ListItemIcon>
                                 <MusicIcon style={{ color: '#00bfa5' }} />
                             </ListItemIcon>
-                            <ListItemText primary="音乐" />
+                            <ListItemText primary="音樂" />
                         </ListItem>
                     </MyLink>
                 }
@@ -117,7 +117,7 @@ function SimpleList(props) {
                             <ListItemIcon>
                                 <SubscriptionsIcon style={{ color: '#af52bf' }} />
                             </ListItemIcon>
-                            <ListItemText primary="番剧" />
+                            <ListItemText primary="番劇" />
                         </ListItem>
                     </MyLink>
                 }
@@ -127,7 +127,7 @@ function SimpleList(props) {
                             <ListItemIcon>
                                 <PaletteIcon style={{ color: '#00bcd4' }} />
                             </ListItemIcon>
-                            <ListItemText primary="绘画" />
+                            <ListItemText primary="繪畫" />
                         </ListItem>
                     </MyLink>
                 }
@@ -137,7 +137,7 @@ function SimpleList(props) {
                             <ListItemIcon>
                                 <MomentIcon style={{ color: '#4a148c' }} />
                             </ListItemIcon>
-                            <ListItemText primary="动态" />
+                            <ListItemText primary="動態" />
                         </ListItem>
                     </MyLink>
                 }
@@ -147,7 +147,7 @@ function SimpleList(props) {
                         <ListItemIcon>
                             <FriendIcon style={{ color: '#e91e63' }} />
                         </ListItemIcon>
-                        <ListItemText primary="友链" />
+                        <ListItemText primary="相關連結" />
                     </ListItem>
                 </MyLink>
 
