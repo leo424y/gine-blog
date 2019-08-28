@@ -1,5 +1,7 @@
 # gine-blog
 
+- 828 Modernweb
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c9191dcb-f9c1-4b8c-8ec7-fbca94456c84/deploy-status)](https://app.netlify.com/sites/gine/deploys)
 
 gine-blog 是一个以 Notion 为 blog 后端,基于 React,Gatsby,Material-UI 开发的静态博客应用。如果博客部署在 netlify 上则可享受 netlify functions 免费额度，结合 Notion API 生成自定义的动态内容页。
