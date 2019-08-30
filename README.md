@@ -1,5 +1,6 @@
 # gine-blog
 
+- 830 notion
 - 828 Modernweb.
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c9191dcb-f9c1-4b8c-8ec7-fbca94456c84/deploy-status)](https://app.netlify.com/sites/gine/deploys)
