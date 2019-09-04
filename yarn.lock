@@ -16,10 +16,10 @@
   dependencies:
     "@antv/util" "~1.3.1"
 
-"@antv/component@~0.3.1":
-  version "0.3.1"
-  resolved "https://registry.yarnpkg.com/@antv/component/-/component-0.3.1.tgz#25eb53e3ed3a0f413896be2f83e7e704bfb6b097"
-  integrity sha512-NH5CQNttfnCjQEGwEEYGS/2gD3L50gCcMV94PYVyvwmn8NoqNDNeF5ZHe9oUNB4DRZIoo1wvGF8M8HJ7ItFLJQ==
+"@antv/component@~0.3.2":
+  version "0.3.4"
+  resolved "https://registry.yarnpkg.com/@antv/component/-/component-0.3.4.tgz#94f605c4c74514816aebc42cf110e11b63508ccc"
+  integrity sha512-4C6naM17MZBRGecbjxPZUoLgjIGzyWYaJACVhnpeiq85eS6c+zUzaXI03dA4GCIXgSgE0M0K6BmlpGQ8QZrptA==
   dependencies:
     "@antv/attr" "~0.1.2"
     "@antv/g" "~3.3.5"
@@ -33,25 +33,25 @@
   dependencies:
     "@antv/util" "~1.3.1"
 
-"@antv/g2@^3.4.10":
-  version "3.4.10"
-  resolved "https://registry.yarnpkg.com/@antv/g2/-/g2-3.4.10.tgz#72607fa3fb261a2a935762c78c8e568297f523cf"
-  integrity sha512-4IltW4S8IV+KcMeGltAgKKr6vAjYAKj+WLTkZAYbzmXEcBsmt4Ss6QcoTrBk/y5AK9dE8Bz1JT+8CgEqMHC2tg==
+"@antv/g2@^3.5.7":
+  version "3.5.7"
+  resolved "https://registry.yarnpkg.com/@antv/g2/-/g2-3.5.7.tgz#b562a696546d3ec1baeff820f6be00521004fe94"
+  integrity sha512-/ec6EBbgp+KWeNi37cq2+ly5do/DIFLqpWRhk7uszFQxVtPcofB6h96D2Z48BNZpqshcVHhpmWVLdOwSnpZu1w==
   dependencies:
     "@antv/adjust" "~0.1.0"
     "@antv/attr" "~0.1.2"
-    "@antv/component" "~0.3.1"
+    "@antv/component" "~0.3.2"
     "@antv/coord" "~0.1.0"
-    "@antv/g" "~3.3.5"
-    "@antv/scale" "~0.1.0"
+    "@antv/g" "~3.3.6"
+    "@antv/scale" "~0.1.1"
     "@antv/util" "~1.3.1"
     venn.js "~0.2.20"
     wolfy87-eventemitter "~5.1.0"
 
-"@antv/g@~3.3.5":
-  version "3.3.5"
-  resolved "https://registry.yarnpkg.com/@antv/g/-/g-3.3.5.tgz#9959baad1b85199614e591c9926879afb1fbb943"
-  integrity sha512-VCfxmQ5ntIf4QHku6w7TnOWHVkfIzOkXVXx99WLYPau8HgLuM4iD9y7isG5T7VpRBAmV+Ow3RJHqL3vHFY2Low==
+"@antv/g@~3.3.5", "@antv/g@~3.3.6":
+  version "3.3.6"
+  resolved "https://registry.yarnpkg.com/@antv/g/-/g-3.3.6.tgz#11fed9ddc9ed4e5a2aa244b7c8abb982a003f201"
+  integrity sha512-2GtyTz++s0BbN6s0ZL2/nrqGYCkd52pVoNH92YkrTdTOvpO6Z4DNoo6jGVgZdPX6Nzwli6yduC8MinVAhE8X6g==
   dependencies:
     "@antv/gl-matrix" "~2.7.1"
     "@antv/util" "~1.3.1"
@@ -65,10 +65,10 @@
   resolved "https://registry.yarnpkg.com/@antv/gl-matrix/-/gl-matrix-2.7.1.tgz#acb8e37f7ab3df01345aba4372d7942be42eba14"
   integrity sha512-oOWcVNlpELIKi9x+Mm1Vwbz8pXfkbJKykoCIOJ/dNK79hSIANbpXJ5d3Rra9/wZqK6MC961B7sybFhPlLraT3Q==
 
-"@antv/scale@~0.1.0":
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@antv/scale/-/scale-0.1.0.tgz#2b5459a100f97aac04781376d53904ccab18aab7"
-  integrity sha512-xQTWhoSYbIGSrNUBOuQvbYk1GnUruaG7az/HIcoA+5pb5WTa2HsW4Rf/mtTkkPVd6YFZJmPwht6lEuuhkCYEPg==
+"@antv/scale@~0.1.1":
+  version "0.1.3"
+  resolved "https://registry.yarnpkg.com/@antv/scale/-/scale-0.1.3.tgz#4876e6140cb7dcda190e7fe2e780882dcac6b09d"
+  integrity sha512-oknlOg4OUqIh8LygrfQttx+OAnNJm2fQ81si4g8aby1WJJwj/TU1gCr+J3loIpKBtBK4VpP/OzTTqg1Ym67SOQ==
   dependencies:
     "@antv/util" "~1.3.1"
     fecha "~2.3.3"
