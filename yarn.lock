@@ -5791,10 +5791,10 @@ ignore@^5.1.1:
   resolved "https://registry.yarnpkg.com/ignore/-/ignore-5.1.4.tgz#84b7b3dbe64552b6ef0eca99f6743dbec6d97adf"
   integrity sha512-MzbUSahkTW1u7JpKKjY7LCARd1fU5W2rLdxlM4kdkayuCwZImjkpluF9CM1aLewYJguPDqewLam18Y6AU69A8A==
 
-image-downloader@^3.4.2:
-  version "3.4.2"
-  resolved "https://registry.yarnpkg.com/image-downloader/-/image-downloader-3.4.2.tgz#0b1909f2437899583286a46fe55691df8ced5f83"
-  integrity sha512-2nAJuZVn9nRqYuX1cT9iBlb6RviI1HGfGa0cL2H8HupbSkFDWOooa5x2oYzydjnQEV+R/YVum2uRXst2UII0yw==
+image-downloader@^3.5.0:
+  version "3.5.0"
+  resolved "https://registry.yarnpkg.com/image-downloader/-/image-downloader-3.5.0.tgz#88c437f83b28817e09b400d5ab1f0f753410135d"
+  integrity sha512-7n6xFEcelGaJHy3Zq/D/H78BOZtdTo2f7KiI5vxGkvJT0pcz/7LcDShSr3MwRudgIG9/QY0mxEakQ9SAExFMzg==
   dependencies:
     request "^2.88.0"
 
