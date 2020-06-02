@@ -18,7 +18,7 @@
     "gatsby-plugin-manifest": "^2.2.13",
     "gatsby-plugin-netlify-cache": "^1.2.0",
     "gatsby-plugin-offline": "^2.0.21",
-    "gatsby-plugin-react-helmet": "^3.0.5",
+    "gatsby-plugin-react-helmet": "^3.3.3",
     "gatsby-plugin-sitemap": "^2.0.4",
     "github-api": "^3.3.0",
     "image-downloader": "^3.4.2",
